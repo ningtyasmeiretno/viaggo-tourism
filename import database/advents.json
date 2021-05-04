@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "6068d0b1acaa7f5204fe8f2c"
+  },
+  "title": "Great Barier Reef - Australia",
+  "content": "You can dive and snorkel the reef among the turtles and colourful fish, lie on the deck and soak up the sun or enjoy a semi-submersible coral viewing tour. Michaelmas Cay is also home to more than 23 species of seabird and is one of the most significant bird sanctuaries on the Great Barrier Reef.",
+  "url_img": "https://www.australia.com/content/dam/assets/photograph/digital/l/f/q/e/1000166.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c6b1959a30472d8527aeb"
+  },
+  "title": "Fuji Mountain - JAPAN ",
+  "content": "Mount Fuji, with its graceful conical form, has become famous throughout the world and is considered the sacred symbol of Japan. Among Japanese there is a sense of personal identification with the mountain, and each summer thousands of Japanese climb to the shrine on its peak. ",
+  "url_img": "https://i1.wp.com/passionpassport.com/wp-content/uploads/2018/01/mt-fuji-weekend-@ytksato-e1517088415679.jpg?fit=1760%2C862&ssl=1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c6c5259a30472d8527aec"
+  },
+  "title": "Grand Canyon - ARIZONA ",
+  "content": "The Grand Canyon is a river valley in the Colorado Plateau that exposes uplifted Proterozoic and Paleozoic strata, and is also one of the six distinct physiographic sections of the Colorado Plateau province. Even though it is not the deepest canyon in the world (Kali Gandaki Gorge in Nepal is much deeper), the Grand Canyon is known for its visually overwhelming size and its intricate and colorful landscape.",
+  "url_img": "https://www.smartertravel.com/wp-content/uploads/2017/08/grand-canyon-sunset-1200x627.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c6d3059a30472d8527aed"
+  },
+  "title": "Goa Gong - Pacitan ",
+  "content": "Gong Cave has stalactite and stalagmite that is said becomes the most beautiful one in Southeast Asian. It has about 256 m depth, it also has 5 polls, which is Rogo Pool, Panguripan Pool, Jiwo Pool, Kamulyan Pool, and Ralung Nisto Pool, which have magical value to heal disease.",
+  "url_img": "https://rutemu.com/wp-content/uploads/2020/01/xGoa-Gong-1-1024x703.jpg.pagespeed.ic.dl0Hwvk8Mw.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606caaa259a30472d8527af3"
+  },
+  "title": "Ngantang Rafting - MALANG ",
+  "content": "For those who are new to challenges, especially rafting, a number of river channels in Malang Raya are a worthy option to try. Apart from offering an attractive natural atmosphere, the characteristic of the river which has a low risk of being a vehicle for adrenaline sharpening.",
+  "url_img": "https://res.cloudinary.com/www-nayfatransmalang-com/image/upload/v1595662431/Kasembon-Rafting-Malang.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606cab4e59a30472d8527af4"
+  },
+  "title": "San Gil - COLOMBIA ",
+  "content": "straddling the River Fonce. It’s known as a center for adventure sports. Facing Parque Principal, the main square, is the 18th-century Cathedral of Santa Cruz. The riverside Gallineral Park has trees hung with curtains of silvery moss, and offers access to white-water rapids.",
+  "url_img": "https://outpostmagazine.com/wp-content/uploads/2017/12/paragliding-colombia.jpg",
+  "__v": 0
+}]

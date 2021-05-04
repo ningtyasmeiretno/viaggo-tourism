@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "606a0ed4c2f0ca8df85a8956"
+  },
+  "title": "⚫",
+  "url_img": "https://wowslider.com/sliders/demo-5/data/images/sur.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606a923c41add489d84207ac"
+  },
+  "title": "⚫⚫",
+  "url_img": "https://bb45trans.com/assets/images/main-slider/2.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606a99cee0bd06887074111e"
+  },
+  "title": "⚫⚫⚫ ",
+  "url_img": "https://www.wonderplugin.com/wp-content/uploads/2014/03/Desert_960_360.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606aa58ce0bd06887074111f"
+  },
+  "title": "⚫⚫⚫⚫ ",
+  "url_img": "https://wowslider.com/sliders/demo-77/data1/images/idaho239691_1920.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606aa60fe0bd068870741120"
+  },
+  "title": "⚫⚫⚫⚫⚫ ",
+  "url_img": "https://wowslider.com/sliders/demo-74/data1/images/newyorkcity336475_1280.jpg",
+  "__v": 0
+}]

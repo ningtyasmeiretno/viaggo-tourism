@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "6069598f6dd8a528acdf5f5c"
+  },
+  "title": "Botswana National Park - SOUTH AFRICA",
+  "content": "Over 80% of Botswana is part of the immense former desert known as the Kalahari. It is a semi-arid region of grassland or thorn trees where rainfall is erratic and exceeded by evaporation in every month of the year. The Okavango Delta aside, there is no permanent standing water.",
+  "url_img": "https://shikwaru-adventures.com/wp-content/uploads/2020/06/botswana-chobe-elephant.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60695d0f6dd8a528acdf5f5d"
+  },
+  "title": "Baluran National Park - SITUBONDO",
+  "content": "Consists predominantly of open savannahs, where wildlife roams free. Here one can watch grazing, the Clarge Javan water buffaloes called “banteng”, small Java mouse-deer is known as “kancil”, peacocks strutting about displaying their colorful plumage, eagles flying overhead and macaques fishing for crabs with their tails.",
+  "url_img": "https://tempatwisataseru.com/wp-content/uploads/2017/11/Petualangan-Seru-Melintas-Alam.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606c707159a30472d8527aee"
+  },
+  "title": "Marine Life Park - SINGAPORE ",
+  "content": "Find the world’s finest wilderness beneath the blue roof! Bring your kids to explore a variety of sea creatures by sticking their nose on the glass wall. Marine Life Park on Sentosa Island is one of the most popular tourist destinations on the island. Situated in the southern part of Singapore, this 20-acre park is home for two of the major attractions.",
+  "url_img": "https://4.bp.blogspot.com/-wQPRU4VFxC0/VK-_ENgLJAI/AAAAAAAAEGA/q0r3LiV9Tqk/s1600/Zona-selat-Karimata-di-SEA-aquarium.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606ca37d59a30472d8527aef"
+  },
+  "title": "Serengeti National Park - TANZANIA ",
+  "content": "Known for its massive annual migration of wildebeest and zebra. Seeking new pasture, the herds move north from their breeding grounds in the grassy southern plains. Many cross the marshy western corridor’s crocodile-infested Grumeti River. Others veer northeast to the Lobo Hills, home to black eagles. ",
+  "url_img": "https://www.greatadventuresafaris.com/wp-content/uploads/Safaro-tours-to-serengeti-national-park-1200x675.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606ca54959a30472d8527af0"
+  },
+  "title": "Dino Park - MALANG ",
+  "content": "You will be taken on an adventure back to the heyday of dinosaurs and experience life with them. Know the size, habits and native habitats of dinosaurs and other ancient extinct creatures. ",
+  "url_img": "https://asset.kompas.com/crops/9NAb43-KKKJPx9fsLShXsspSrmI=/0x0:739x493/750x500/data/photo/2020/03/19/5e739e55b8973.jpg",
+  "__v": 0
+}]

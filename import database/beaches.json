@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "6068b1bee61bb28338e793d2"
+  },
+  "title": "Kuta Beach - BALI",
+  "content": "Kuta beach is one of the first favorite beaches discovered by tourist. Coconut trees line the sand beach as far as the eyes can see towards the north stopped by the runway of Denpasar's airport far in the west. The sunset in Kuta is most breathtaking. ",
+  "__v": 0,
+  "url_img": "https://dzt53h2bjh4s.cloudfront.net/wp-content/uploads/2017/03/20115515/Kuta-Beach-Bali-Indonesia-Awesome.jpg"
+},{
+  "_id": {
+    "$oid": "6068bddcc1c06f84d07e728a"
+  },
+  "title": "Hawaii - U.S.A",
+  "content": "Hawaii is known for its beautiful beaches—some of them with unusual colors. Many beaches are filled with white sand, but other Hawaiian shores are covered with green, red, pink, and even black sand.",
+  "__v": 0,
+  "url_img": "https://www.gohawaii.com/sites/default/files/styles/image_gallery_bg_xl/public/hero-unit-images/12709.jpg?itok=RByMHmpc"
+},{
+  "_id": {
+    "$oid": "6068bee9c1c06f84d07e728b"
+  },
+  "title": "Raja Ampat - PAPUA",
+  "content": "Stunning archipelago comprising over 1,500 small islands. These host thousands of species some of which are endemic to the region. It encompasses more than 40,000 km² of land and sea. This also contains Cenderawasih Bay, the largest marine national park in Indonesia.",
+  "__v": 0,
+  "url_img": "https://www.zubludiving.com/images/Indonesia/West-Papua/Raja-Ampat/Raja-Ampat-Wayag-Diving.jpg"
+},{
+  "_id": {
+    "$oid": "6068bfc8c1c06f84d07e728c"
+  },
+  "title": "Railay Beach - THAILAND",
+  "content": "A small peninsula which counts four beaches. In just one small peninsula you'll find gorgeous white sand beaches, soaring limestone cliffs, viewpoints, caves and a lagoon hidden inside the cliffs, shaped and fed by the changing tides. All within walking distance!",
+  "__v": 0,
+  "url_img": "http://cdn.cnn.com/cnnnext/dam/assets/180509180929-4-krabi-rock-climbing.jpg"
+},{
+  "_id": {
+    "$oid": "606ca7b859a30472d8527af1"
+  },
+  "title": "Zakynthos Island - GREECE ",
+  "content": "The Ionian Islands are splendid, cinematic paradise. The waters are bluest blue, the sands are achingly silky and smooth. Everything looks heavily Photoshopped. But that's just Mother Nature, in all her unspoiled glory. Zakynthos is the largest of the Ionian Islands.",
+  "url_img": "https://travelpassionate.com/wp-content/uploads/2017/08/%CE%9D%CE%91%CE%A5%CE%91%CE%93%CE%99%CE%9F-min.jpg",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "606ca8b859a30472d8527af2"
+  },
+  "title": "Tanah Lot - BALI ",
+  "content": " The temple is built on the rock with 3 acre size and reachable in a few minute by walk, because it is just 20 meters from the coastal lip. This temple is very famous among tourist destinations in Bali with spectacular view of sunset. At some nooks of coral reef around Tanah Lot Temple.",
+  "url_img": "https://balitravelinggroup.com/wp-content/uploads/2019/08/Tanah-Lot-temple.jpg",
+  "__v": 0
+}]
